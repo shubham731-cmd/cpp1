@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\my folder\c\cpp\main.cpp
+	<iostream>
+
+1727184179 source:c:\my folder\c\cpp\weather.cpp
+	<iostream>
+	<thread>
+	<string>
+	<map>
+	<chrono>
+
