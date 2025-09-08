@@ -12,7 +12,7 @@ int main()
         }
     }
     cout<<"true"<<endl;
-    
+    cout<<"ok"<<endl;
 
     return 0;
 }
